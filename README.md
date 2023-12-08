@@ -1,3 +1,3 @@
 # python_calc
 
-* sorce: https://realpython.com/python-pyqt-gui-calculator/ 
+* source: https://realpython.com/python-pyqt-gui-calculator/ 
